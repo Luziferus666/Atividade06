@@ -1,0 +1,4 @@
+# Crie um programa que receba dois nomes (primeiro nome e sobrenome) e exiba o nome completo.
+N1 = (input("Seu primeiro nome aqui"))
+N2 = (input("Seu sobrenome aqui"))
+print(f"Seu nome completo é{N1} {N2}")
